@@ -1,5 +1,5 @@
 {
-  "name": "khakhra",
+  "name": "bk-retail",
   "main": "src/worker.js",
   "compatibility_date": "2026-01-01",
   "assets": { "directory": "./public", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
