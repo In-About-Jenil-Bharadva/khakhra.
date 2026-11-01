@@ -4,6 +4,6 @@
   "compatibility_date": "2026-01-01",
   "assets": { "directory": "./public", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
   "d1_databases": [
-    { "binding": "DB", "database_name": "bk-db", "database_id": "PASTE-YOUR-D1-DATABASE-ID-HERE" }
+    { "binding": "DB", "database_name": "bk-db", "database_id": "9db9801d-2250-41b4-99aa-585aa49d975b" }
   ]
 }
