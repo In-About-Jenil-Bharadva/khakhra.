@@ -1,0 +1,86 @@
+{
+ "used": [
+  {
+   "file": "IMG-20261031-WA0002.jpg",
+   "product": "khakhra",
+   "flavour": "Dry Thepla"
+  },
+  {
+   "file": "IMG-20261031-WA0054.jpg",
+   "product": "khakhra",
+   "flavour": "Methi"
+  },
+  {
+   "file": "IMG-20261031-WA0034.jpg",
+   "product": "khakhra",
+   "flavour": "Chola Fali"
+  },
+  {
+   "file": "IMG-20261031-WA0035.jpg",
+   "product": "khakhra",
+   "flavour": "Mungdi (Moong)"
+  },
+  {
+   "file": "IMG-20261031-WA0036.jpg",
+   "product": "khakhra",
+   "flavour": "Panipuri"
+  },
+  {
+   "file": "IMG-20261031-WA0037.jpg",
+   "product": "khakhra",
+   "flavour": "Manchurian"
+  },
+  {
+   "file": "IMG-20261031-WA0032.jpg",
+   "product": "coin",
+   "flavour": "Chocolate"
+  },
+  {
+   "file": "IMG-20261031-WA0025.jpg",
+   "product": "coin",
+   "flavour": "Achari"
+  },
+  {
+   "file": "IMG-20261031-WA0030.jpg",
+   "product": "coin",
+   "flavour": "Mungdi (Moong)"
+  },
+  {
+   "file": "IMG-20261031-WA0028.jpg",
+   "product": "coin",
+   "flavour": "Manchurian"
+  },
+  {
+   "file": "IMG-20261031-WA0033.jpg",
+   "product": "coin",
+   "flavour": "Cholafali"
+  },
+  {
+   "file": "IMG-20261031-WA0029.jpg",
+   "product": "coin",
+   "flavour": "Cheese"
+  },
+  {
+   "file": "IMG-20261031-WA0022.jpg",
+   "product": "bhakhri",
+   "flavour": "Plain"
+  },
+  {
+   "file": "IMG-20261031-WA0020.jpg",
+   "product": "bhakhri",
+   "flavour": "Jeera"
+  },
+  {
+   "file": "IMG-20261031-WA0021.jpg",
+   "product": "bhakhri",
+   "flavour": "Masala"
+  }
+ ],
+ "skipped_duplicates": [
+  "IMG-20261031-WA0023.jpg",
+  "IMG-20261031-WA0026.jpg",
+  "IMG-20261031-WA0031.jpg",
+  "IMG-20261031-WA0024.jpg",
+  "IMG-20261031-WA0027.jpg"
+ ]
+}

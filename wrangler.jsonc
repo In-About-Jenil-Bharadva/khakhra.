@@ -1,0 +1,9 @@
+{
+  "name": "bk-retail",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-01-01",
+  "assets": { "directory": "./public", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "bk-db", "database_id": "PASTE-YOUR-D1-DATABASE-ID-HERE" }
+  ]
+}
